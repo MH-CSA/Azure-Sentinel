@@ -5,7 +5,7 @@
         "rgName": {
             "type": "string"
         },
-        "location": {
+        "locationtest": {
             "type": "string"
         },
         "workspaceName": {
